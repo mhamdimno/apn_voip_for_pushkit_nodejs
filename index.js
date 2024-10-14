@@ -78,7 +78,7 @@ console.log(tokens);
     note.alert = "You have a new call from door";
     note.topic = "com.lockersuites.doorCall.voip";
     note.payload = {
-      "aps": { "alert": "Hien Nguyen Call" },
+      "aps": { "alert": "Door App Calling" },
       "id": "44d915e1-5ff4-4bed-bf13-c423048ec97a",
       "handle": "Door App Calling ...",
       "isVideo": false,
